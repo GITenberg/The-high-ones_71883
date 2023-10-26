@@ -1,0 +1,35 @@
+_repo: The-high-ones_71883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Poul
+    aliases:
+    - Anderson, Poul William
+    - Craig, A. A.
+    - Craig, A.A.
+    - Karageorge, Michael
+    - Sanders, Winston P.
+    - Saunders, Winston P.
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: https://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2023-10-15'
+identifiers:
+  gutenberg: '71883'
+language: en
+pgterms:marc905: 20230916051928anderson
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The high ones
+url: http://www.gutenberg.org/ebooks/71883
